@@ -11,7 +11,7 @@ import SwiftUI
 struct Make_It_CountApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MilkyWayCounterView()
         }
     }
 }
